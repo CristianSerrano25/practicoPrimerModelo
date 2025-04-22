@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    margin: 300px;
+    background-color: #0f0f0f;
+}
+
+input,
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    width: 60%;
+    max-width: 400px;
+}
+
+button {
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.toxico {
+    color: darkred;
+}
+
+.no-toxico {
+    color: darkgreen;
+}
