@@ -18,5 +18,4 @@ Este es un proyecto simple en HTML, CSS y JavaScript que utiliza el modelo preen
 - JavaScript (Vanilla)
 - [TensorFlow.js](https://www.tensorflow.org/js) y el modelo `@tensorflow-models/toxicity`
 
-## 📁 Estructura del proyecto
 
